@@ -66,7 +66,7 @@ The main entities are:
 
 ## Project Files
 
-- `ERD Assignment Linn Brown.docx` - Completed written assignment
+- ![ERD Assignment] (ERD Assignment Linn Brown.docx)  - Completed written assignment
 
 ## Key Outcome
 
