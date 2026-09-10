@@ -66,7 +66,7 @@ The main entities are:
 
 ## Project Files
 
-- ![ERD Assignment] (ERD Assignment Linn Brown.docx)  - Completed written assignment
+- ![ERD Assignment] (WitleShop-ERD-Assignment/ERD Assignment Linn Brown.docx)
 
 ## Key Outcome
 
